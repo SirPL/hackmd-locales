@@ -136,56 +136,56 @@
 		}
 	},
 	"snippet-export": {
-		"title": "Export to Snippet",
+		"title": "Wyeksportuj do Snippet",
 		"project": {
-			"title": "Project:",
-			"placeholder": "Select From Available Projects"
+			"title": "Projekt:",
+			"placeholder": "Wybierz spośród dostępnych projektów"
 		},
 		"visibility": {
-			"title": "Visibility:",
-			"placeholder": "Select Visibility Level",
-			"private": "Private",
-			"internal": "Internal"
+			"title": "Widoczność:",
+			"placeholder": "Wybierz poziom widnoczności",
+			"private": "Prytwatny",
+			"internal": "Wewnętrzny"
 		},
 		"body": {
-			"title": "Title:",
-			"filename": "File Name:"
+			"title": "Tytuł:",
+			"filename": "Nazwa pliku:"
 		},
-		"export": "Export",
-		"success": "Export Successful!",
-		"view-here": "View Snippet Here"
+		"export": "Esportuj",
+		"success": "Eksport powiódł się!",
+		"view-here": "Zobacz Snippet tutaj"
 	},
 	"google-drive": {
 		"import": {
-			"title": "Import from Google Drive",
-			"failed": "Import failed :("
+			"title": "Importuj z Google Drive",
+			"failed": "Import nie powiódł się :("
 		},
 		"export": {
-			"title": "Export to Google Drive",
-			"success": "Export Complete!",
-			"view-here": "Click here to view your file",
-			"error": "Export Error :("
+			"title": "Eksportuj do Google Drive",
+			"success": "Eksport powiódł się!",
+			"view-here": "Kliknij tutaj aby zobaczyć plik",
+			"error": "Błąd eksportu :("
 		}
 	},
 	"gist": {
 		"import": {
-			"title": "Import from Gist",
-			"fetch-error": "Unable to fetch gist files :(",
-			"not-valid-gist-url-error": "Not a valid Gist URL :("
+			"title": "Importuj z Gist",
+			"fetch-error": "Nie można pobrać plików z Gist :(",
+			"not-valid-gist-url-error": "Nieprawidłowy adres URL Gist :("
 		}
 	},
 	"import": {
-		"import-from-url": "Import from URL",
-		"not-valid-url-error": "Not a valid URL :(",
-		"import-failed": "Import failed :("
+		"import-from-url": "Importuj z URL",
+		"not-valid-url-error": "Nieprawidłowy adres URL :(",
+		"import-failed": "Import nie powiódł się :("
 	},
 	"delete": {
-		"title": "Are you sure?",
-		"yes": "Yes, do it!",
-		"body-member": "Do you really want to remove this member?",
+		"title": "Na pewno?",
+		"yes": "Tak, zrób to!",
+		"body-member": "Na pewno chcesz usunąć tego członka?",
 		"body": {
-			"msg": "Do you really want to delete this note?",
-			"item": "All users will lost their connection."
+			"msg": "Na pewno chcesz usunąć tę notatkę?",
+			"item": "Wszyscy edytujący ją użytkownicy utracą swoje połączenie."
 		}
 	},
 	"transfer": {
