@@ -1,57 +1,57 @@
 {
 	"revision": {
-		"revision": "Revisions",
-		"download": "Download",
-		"revert": "Revert"
+		"revision": "Wykaz zmian",
+		"download": "Pobierz",
+		"revert": "Przywróć"
 	},
 	"common": {
-		"or": "or",
-		"cancel": "Cancel",
+		"or": "lub",
+		"cancel": "Anuluj",
 		"ok": "OK",
-		"got-it": "Got it",
+		"got-it": "Rozumiem",
 		"period": "."
 	},
 	"help": {
-		"title": "Help",
+		"title": "Pomoc",
 		"contact": {
-			"title": "Contacts",
-			"messenger": "Talk to us",
-			"github": "Report an issue",
-			"email": "Send us email",
-			"donate": "Buy us coffee"
+			"title": "Kontakt",
+			"messenger": "Pogadaj z nami",
+			"github": "Zgłoś błąd",
+			"email": "Wyślij e-mail",
+			"donate": "Ufunduj kawę"
 		},
-		"documents": "Documents",
-		"features": "Features",
-		"yaml-meta": "YAML Metadata",
-		"slide": "Slide Example",
-		"book": "Book Example",
-		"cheatsheet": "Cheatsheet",
-		"example": "Example",
+		"documents": "Dokumenty",
+		"features": "Funkcjonalności",
+		"yaml-meta": "Metadane YAML",
+		"slide": "Przykład pokazu slajdów",
+		"book": "Przykład trybu książki",
+		"cheatsheet": "Ściągawka",
+		"example": "Przykład",
 		"syntax": {
-			"h1": "Header",
-			"ul": "Unordered List",
-			"ol": "Ordered List",
-			"todo": "Todo List",
-			"blockquote": "Blockquote",
-			"b": "Bold font",
-			"i": "Italics font",
-			"strike": "Strikethrough",
-			"ins": "Inserted text",
-			"mark": "Marked text",
+			"h1": "Nagłówek",
+			"ul": "Lista punkowana",
+			"ol": "Lista numerowana",
+			"todo": "Lista zadań",
+			"blockquote": "Cytat blokowy",
+			"b": "Pogrubienie",
+			"i": "Kursywa",
+			"strike": "Przekreślenie",
+			"ins": "Wstawiony fragment",
+			"mark": "Wyróżnienie",
 			"anchor": "Link",
-			"img": "Image",
-			"code": "Code",
-			"embeded": "Externals",
-			"alert": "This is a alert area."
+			"img": "Obraz",
+			"code": "Kod",
+			"embeded": "Wtyczki zewnętrzne",
+			"alert": "To jest blok z informacją."
 		}
 	},
 	"signup": {
-		"signup": "Sign up",
-		"new": "New to HackMD? ",
+		"signup": "Zarejestruj",
+		"new": "Jesteś tu nowy? ",
 		"eeSite": {
 			"terms": {
-				"1": "By clicking below, you agree to our ",
-				"2": "terms of service."
+				"1": "Klikając w poniższy przycisk akceptujesz ",
+				"2": "warunki użycia."
 			}
 		}
 	},
