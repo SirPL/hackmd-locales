@@ -56,83 +56,83 @@
 		}
 	},
 	"signin": {
-		"signin": "Sign in",
-		"signin-ldap" : "Sign in to {{name}} (LDAP)",
-		"signin-via-email": "Sign in via Email",
-		"choose": "Choose method",
-		"via": "Sign in via {{text}}",
-		"email-or-username": "Email or Username",
-		"email-or-username-placeholder": "Your email or Username",
-		"email": "Email",
-		"email-placeholder": "Your email",
-		"password": "Password",
-		"password-placeholder": "Your password"
+		"signin": "Zaloguj",
+		"signin-ldap" : "Zaloguj do {{name}} (LDAP)",
+		"signin-via-email": "Zaloguj adresem e-mail",
+		"choose": "Wybierz sposób",
+		"via": "Zaloguj przez {{text}}",
+		"email-or-username": "E-mail lub nazwa użytkownika",
+		"email-or-username-placeholder": "Twój e-mail lub nazwa użytkownika",
+		"email": "E-mail",
+		"email-placeholder": "Twój e-mail",
+		"password": "Hasło",
+		"password-placeholder": "Twoje hasło"
 	},
 	"refresh": {
-		"title": "This page need refresh",
+		"title": "Strona wymaga odświeżenia",
 		"incompatible": {
-			"title": "You have an incompatible client version.",
-			"content": "Refresh to update."
+			"title": "Używasz niekompatybilnej wersji klienta.",
+			"content": "Odśwież aby zaktualizować."
 		},
 		"upgrade": {
-			"title": "New version available!",
-			"note": "See releases notes here",
-			"content": "Refresh to enjoy new features."
+			"title": "Dostępna nowa wersja!",
+			"note": "Zobacz wykaz nowości i zmian",
+			"content": "Odśwież aby móc korzystać z nowych funkcji."
 		},
 		"auth": {
-			"title": "Your user state has changed.",
-			"content": "Refresh to load new user state."
+			"title": "Zmienił się status użytkownika.",
+			"content": "Odśwież aby zaktualizować status."
 		},
-		"donate": "Buy us coffee",
-		"refresh": "Refresh"
+		"donate": "Ufunduj kawę",
+		"refresh": "Odśwież"
 	},
 	"infobar": {
-		"owned": "owned this note",
-		"created": "created",
-		"changed": "changed",
+		"owned": "autor",
+		"created": "utworzył",
+		"changed": "edytował",
 		"notification" : {
-			"watch": "Watch - Be notified of any changes",
-			"never": "Never - Never be notified"
+			"watch": "Obserwuj - Będziesz powiadamiany o zmianach",
+			"never": "Nigdy - Nie będziesz otrzymywać powiadomień"
 		}
 	},
 	"clipboard": {
-		"title": "Import from clipboard",
-		"content": "Paste your markdown or webpage here...",
-		"clear": "Clear",
-		"import": "Import"
+		"title": "Importuj ze schowka",
+		"content": "Wklej tutaj kod Markdown lub strony…",
+		"clear": "Wyczyść",
+		"import": "Importuj"
 	},
 	"locked": {
-		"title": "This note is locked",
-		"content": "Sorry, only owner can edit this note."
+		"title": "Notatka jest zablokowana",
+		"content": "Przepraszamy, jedynie właściciel może edytować tę notatkę."
 	},
 	"limit": {
-		"title": "Reach the limit",
-		"content1": "Sorry, you've reached the max length this note can be.",
-		"content2": "Please reduce the content or divide it to more notes, thank you!"
+		"title": "Osiągnięto limit znaków",
+		"content1": "Przepraszamy, osiągnięto maksymalną długość tej notatki."
+		"content2": "Proszę skrócić zawartość lub podzielić notatkę na kilka mniejszych. Dziękujemy!"
 	},
 	"gist-import": {
-		"title": "Import from Gist",
-		"content": "Paste your gist url here...",
-		"clear": "Clear",
-		"import": "Import"
+		"title": "Importuj z Gist",
+		"content": "Wklej tutaj link do dokumentu Gist…",
+		"clear": "Wyczyść",
+		"import": "Importuj"
 	},
 	"snippet-import": {
-		"title": "Import from Snippet",
+		"title": "Importuj z Snippet",
 		"project": {
-			"placeholder": "Select From Available Projects"
+			"placeholder": "Wybierz spośród dostępnych projektów"
 		},
 		"snippet": {
-			"placeholder": "Select From Available Snippets"
+			"placeholder": "Wybierz spośród dostępnych Snippet'ów"
 		},
 		"body": {
-			"project": "Project:",
+			"project": "Projekt:",
 			"Snippet": "Snippet:"
 		},
-		"clear": "Clear",
-		"import": "Import",
+		"clear": "Wyczyść",
+		"import": "Importuj",
 		"error": {
-			"fetch-error": "Unable to fetch gitlab parameters :(",
-			"not-valid-url-error": "Not a valid Snippet URL :("
+			"fetch-error": "Nie można pobrać parametrów GitLab :(",
+			"not-valid-url-error": "Nieprawidłowy adres URL Snippet :("
 		}
 	},
 	"snippet-export": {
