@@ -107,7 +107,7 @@
 	},
 	"limit": {
 		"title": "Osiągnięto limit znaków",
-		"content1": "Przepraszamy, osiągnięto maksymalną długość tej notatki."
+		"content1": "Przepraszamy, osiągnięto maksymalną długość tej notatki.",
 		"content2": "Proszę skrócić zawartość lub podzielić notatkę na kilka mniejszych. Dziękujemy!"
 	},
 	"gist-import": {
